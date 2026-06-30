@@ -1,0 +1,5 @@
+clv_tier,user_count,avg_clv_score,avg_total_spent,avg_orders,avg_sessions,avg_conversion_rate
+Premium,521,64.68,22159.04,19.4,52.6,23.51
+High Value,497,53.7,17168.33,15.9,50.8,21.27
+Medium Value,496,46.89,14070.7,13.9,49.4,19.53
+Low Value,486,37.43,10059.69,10.5,47.1,17.18

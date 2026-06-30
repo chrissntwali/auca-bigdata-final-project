@@ -1,0 +1,6 @@
+venv/
+.ipynb_checkpoints/
+data/sessions_0.json
+data/sessions_1.json
+__pycache__/
+*.pyc

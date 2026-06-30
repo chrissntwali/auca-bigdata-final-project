@@ -1,0 +1,16 @@
+device_type,referrer,total_sessions,converted_sessions,conversion_rate_pct,avg_session_duration_sec
+mobile,affiliate,6578,1403,21.33,1819.0
+desktop,direct,6548,1387,21.18,1806.0
+mobile,social,6709,1420,21.17,1814.0
+mobile,search_engine,6569,1373,20.90,1823.0
+desktop,search_engine,6659,1382,20.75,1827.0
+desktop,email,6729,1393,20.70,1837.0
+desktop,affiliate,6810,1406,20.65,1801.0
+mobile,email,6711,1386,20.65,1811.0
+tablet,email,6632,1369,20.64,1799.0
+desktop,social,6690,1341,20.04,1800.0
+tablet,search_engine,6642,1331,20.04,1822.0
+tablet,direct,6566,1312,19.98,1814.0
+mobile,direct,6795,1341,19.74,1793.0
+tablet,social,6624,1307,19.73,1813.0
+tablet,affiliate,6738,1308,19.41,1832.0
